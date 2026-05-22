@@ -8,14 +8,14 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-#### 🛠️ Tecnologias
+## Tecnologias
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - Context API
 
-#### Projeto
+## Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
 - Layout reutilizável (Header, Sidebar)
@@ -23,7 +23,7 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
 
-#### Requisitos
+## Requisitos
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
