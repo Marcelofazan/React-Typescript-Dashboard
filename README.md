@@ -2,13 +2,20 @@
 Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
 <p align="center">
-    <a href="#-Projeto">O que voçê vai ver nesse Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologias">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Requisitos">Requisitos e Detalhe do uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aqui-est%C3%A1-uma-demonstra%C3%A7%C3%A3o-do-projeto">Aqui está uma demonstração do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-requisitos">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-#### O que voçê vai ver nesse Projeto
+#### 🛠️ Tecnologias
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Context API
+
+#### Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
 - Layout reutilizável (Header, Sidebar)
@@ -16,14 +23,7 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
 
-#### 🛠️ Tecnologias Utilizadas
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Context API
-
-#### Requisitos e Detalhe do uso
+#### Requisitos
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
@@ -34,5 +34,5 @@ npm install
 npm run dev
 ```
 
-#### Aqui está uma demonstração do Projeto
+#### Layout
 https://dash-board-umber-sigma.vercel.app/
