@@ -1,6 +1,13 @@
 ## 🚀 Dashboard
 Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
+<p align="center">
+    <a href="#-Projeto">O que voçê vai ver nesse Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Requisitos">Requisitos e Detalhe do uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-demonstração">Aqui está uma demonstração do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 #### O que voçê vai ver nesse Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
