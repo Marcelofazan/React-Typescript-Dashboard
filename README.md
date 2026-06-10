@@ -1,4 +1,4 @@
-## Dashboard-git
+## 🌐 Dashboard-git
 
 Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
@@ -9,13 +9,6 @@ Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com la
 - KPIs e dados simulados
 - Estrutura preparada para integração com APIs
 - Estilização com Tailwind CSS
-
-#### Tecnologias
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Context API
 
 #### Requisitos
 - Recuperar as dependencias do projeto node_modules . 
@@ -28,7 +21,7 @@ npm install
 npm run dev
 ```
 
-#### Layout
+#### 🎨 Aqui está uma demonstração do Projeto
 https://dash-board-umber-sigma.vercel.app/
 
 ---
