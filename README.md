@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-#### 📋 Projeto
+#### 📁 Projeto
 - Navegação entre páginas (Dashboard, Reports e Settings)
 - Estado global com Context API
 - Layout reutilizável (Header, Sidebar)
