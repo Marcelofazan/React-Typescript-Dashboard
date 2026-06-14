@@ -1,5 +1,5 @@
 ## 🌐 React-Dashboard
-Exemplo de Dashboard em **React + TypeScript**.
+Exemplo de Dashboard em React + TypeScript.
 
 #### 🎨 Aqui está uma demonstração do Projeto
 https://dash-board-umber-sigma.vercel.app/
