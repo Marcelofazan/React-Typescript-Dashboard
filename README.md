@@ -1,6 +1,6 @@
 ## 🌐 React-Dashboard
 
-Exemplo de criação de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
+Exemplo de Dashboard desenvolvido em **React + TypeScript**, com layout responsivo e foco em boas práticas de organização e estado global
 
 #### 🎨 Aqui está uma demonstração do Projeto
 https://dash-board-umber-sigma.vercel.app/
