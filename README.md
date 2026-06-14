@@ -1,4 +1,4 @@
-## 🌐 React-Dashboard
+## 🌐 React-Typescript-Dashboard
 Exemplo de Dashboard em React + TypeScript.
 
 #### 🎨 Aqui está uma demonstração do Projeto
