@@ -10,9 +10,9 @@ pool:
 
 steps:
 # 1. Define a versão do Node.js a ser usada
-- task: NodeTool@0
+- task: UseNode@1
   inputs:
-    versionSpec: '20.x'
+    version: '18.x'
   displayName: 'Instalar Node.js'
 
 # 2. Instala as dependências do projeto
